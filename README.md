@@ -1,13 +1,13 @@
-<!-- PULSE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&height=200&color=gradient&text=Krithik%20Amam&fontSize=55&fontAlignY=42&desc=Data%20Engineer&descSize=25&descAlign=50&descAlignY=65"/>
-</p>
 
 <!-- ==================== BANNER ==================== -->
 <p align="center">
   <img src="assets/Guilty Gear XX Background GIF.gif" alt="Top GIF" width="100%" style="border-radius: 8px;">
 </p>
 
+<!-- ENTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=pulse&height=200&color=gradient&text=Krithik%20Amam&fontSize=55&fontAlignY=42&desc=Data%20Engineer&descSize=25&descAlign=50&descAlignY=65"/>
+</p>
 
 
 <!-- ==================== TECH ECOSYSTEM ==================== -->
