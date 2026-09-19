@@ -1,40 +1,61 @@
-
 <!-- ==================== BANNER ==================== -->
 <p align="center">
-  <img src="assets/Guilty Gear XX Background GIF.gif" alt="Top GIF" width="100%" style="border-radius: 8px;">
+  <img src="krithikfalls.gif" alt="Top GIF" width="90%" style="border-radius: 8px;">
 </p>
 
-<!-- ENTER -->
+<!-- ==================== TYPING TEXT ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pulse&height=200&color=gradient&text=Krithik%20Amam&fontSize=55&fontAlignY=42&desc=Data%20Engineer&descSize=25&descAlign=50&descAlignY=65"/>
+  <a href="https://github.com/anriam-codes">
+    <img src="https://readme-typing-svg.demolab.com/?font=DotGothic16&size=32&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=800&height=120&lines=Data+Engineering;Building+Scalable+Pipelines;Developing+AI+Data+Systems" alt="Typing SVG">
+  </a>
 </p>
 
+<!-- ==================== TWO GIFS (same 90% width as banner) ==================== -->
+<table align="center" width="90%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="city.gif" alt="City GIF" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="pees.gif" alt="Pees GIF" width="100%">
+    </td>
+  </tr>
+</table>
 
-<!-- ==================== TECH ECOSYSTEM ==================== -->
-<h3 align="center">Tech Ecosystem</h3>
+<!-- ==================== TECHNICAL ECOSYSTEM ==================== -->
+<h2 align="left">🛠️ Technical Ecosystem</h2>
 
 <p align="center">
-  <img src="https://api.iconify.design/simple-icons/python.svg?color=%23ffb7c5&height=50" alt="Python" title="Python" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/devicon-plain/java.svg?color=%23ffb7c5&height=50" alt="Java" title="Java" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/apachekafka.svg?color=%23ffb7c5&height=50" alt="Kafka" title="Kafka" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/apachespark.svg?color=%23ffb7c5&height=50" alt="Spark" title="Spark" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/dbt.svg?color=%23ffb7c5&height=50" alt="dbt" title="dbt" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/databricks.svg?color=%23ffb7c5&height=50" alt="Databricks" title="Databricks" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/apacheairflow.svg?color=%23ffb7c5&height=50" alt="Airflow" title="Airflow" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%23ffb7c5&height=50" alt="PostgreSQL" title="PostgreSQL" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%23ffb7c5&height=50" alt="MongoDB" title="MongoDB" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/snowflake.svg?color=%23ffb7c5&height=50" alt="Snowflake" title="Snowflake" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/devicon-plain/amazonwebservices.svg?color=%23ffb7c5&height=50" alt="AWS" title="AWS" height="50">
+  <img src="https://api.iconify.design/simple-icons/python.svg?color=%23ffb7c5&height=64" alt="Python" title="Python" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/devicon-plain/java.svg?color=%23ffb7c5&height=64" alt="Java" title="Java" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/apachekafka.svg?color=%23ffb7c5&height=64" alt="Kafka" title="Kafka" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/apachespark.svg?color=%23ffb7c5&height=64" alt="Spark" title="Spark" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/dbt.svg?color=%23ffb7c5&height=64" alt="dbt" title="dbt" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/databricks.svg?color=%23ffb7c5&height=64" alt="Databricks" title="Databricks" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/apacheairflow.svg?color=%23ffb7c5&height=64" alt="Airflow" title="Airflow" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/postgresql.svg?color=%23ffb7c5&height=64" alt="PostgreSQL" title="PostgreSQL" height="64">
 </p>
 <p align="center">
-  <img src="https://api.iconify.design/devicon-plain/azure.svg?color=%23ffb7c5&height=50" alt="Azure" title="Azure" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/mdi/delta.svg?color=%23ffb7c5&height=50" alt="Delta Lake" title="Delta Lake" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/docker.svg?color=%23ffb7c5&height=50" alt="Docker" title="Docker" height="50"> &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/git.svg?color=%23ffb7c5&height=50" alt="Git" title="Git" height="50">
+  <img src="https://api.iconify.design/simple-icons/mongodb.svg?color=%23ffb7c5&height=64" alt="MongoDB" title="MongoDB" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/snowflake.svg?color=%23ffb7c5&height=64" alt="Snowflake" title="Snowflake" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/devicon-plain/amazonwebservices.svg?color=%23ffb7c5&height=64" alt="AWS" title="AWS" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/devicon-plain/azure.svg?color=%23ffb7c5&height=64" alt="Azure" title="Azure" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/mdi/delta.svg?color=%23ffb7c5&height=64" alt="Delta Lake" title="Delta Lake" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/docker.svg?color=%23ffb7c5&height=64" alt="Docker" title="Docker" height="64"> &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons/git.svg?color=%23ffb7c5&height=64" alt="Git" title="Git" height="64">
+</p>
+
+<!-- ==================== ACTIVITY STATS ==================== -->
+<h2 align="left">📊 Activity Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/anriam-codes">
+    <img width="95%" src="https://streak-stats.demolab.com/?user=anriam-codes&hide_border=true&background=0D1117&ring=ffb7c5&fire=ffb7c5&currStreakNum=ffb7c5&sideNums=ffb7c5&currStreakLabel=ffb7c5&sideLabels=ffb7c5&dates=ffffff&stroke=ffffff40" alt="GitHub Streak" />
+  </a>
 </p>
 
 <!-- ==================== CONNECT WITH ME ==================== -->
-<h3 align="center">Connect With Me</h3>
+<h2 align="left">🤝 Connect With Me</h2>
 
 <p align="center" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/krithiksria/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/ffb7c5/linkedin.png" alt="LinkedIn" height="60"></a> &nbsp;&nbsp;
