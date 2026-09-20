@@ -1,6 +1,6 @@
 <!-- ==================== BANNER ==================== -->
 <p align="center">
-  <img src="krithikfalls.gif" alt="Top GIF" width="90%" style="border-radius: 8px;">
+  <img src="assets/krithikfalls.gif" alt="Top GIF" width="90%" style="border-radius: 8px;">
 </p>
 
 <!-- ==================== TYPING TEXT ==================== -->
@@ -14,10 +14,10 @@
 <table align="center" width="90%">
   <tr>
     <td width="50%" align="center">
-      <img src="city.gif" alt="City GIF" width="100%">
+      <img src="assets/city.gif" alt="City GIF" width="100%">
     </td>
     <td width="50%" align="center">
-      <img src="pees.gif" alt="Pees GIF" width="100%">
+      <img src="assets/pees.gif" alt="Pees GIF" width="100%">
     </td>
   </tr>
 </table>
