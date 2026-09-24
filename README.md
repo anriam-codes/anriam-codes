@@ -6,10 +6,9 @@
 <!-- ==================== TYPING TEXT ==================== -->
 <p align="center">
   <a href="https://github.com/anriam-codes">
-    <img src="https://readme-typing-svg.demolab.com/?font=DotGothic16&size=32&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=800&height=120&lines=Data+Engineering;Building+Scalable+Pipelines;Developing+AI+Data+Systems" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?font=Reggae+One&size=32&duration=3000&pause=1000&color=FFB7C5&center=true&vCenter=true&width=800&height=120&lines=Data+Engineering;Building+Scalable+Pipelines;Developing+AI+Data+Systems" alt="Typing SVG">
   </a>
 </p>
-
 <!-- ==================== TWO GIFS (same 90% width as banner) ==================== -->
 <table align="center" width="90%">
   <tr>
