@@ -1,6 +1,6 @@
 <!-- ==================== BANNER ==================== -->
 <p align="center">
-  <img src="assets/krithikfalls.gif" alt="Top GIF" width="90%" style="border-radius: 8px;">
+  <img src="assets/kree.gif" alt="Top GIF" width="90%" style="border-radius: 8px;">
 </p>
 
 <!-- ==================== TYPING TEXT ==================== -->
