@@ -13,16 +13,16 @@
 <table align="center" width="90%">
   <tr>
     <td width="50%" align="center">
-      <img src="assets/city.gif" alt="City GIF" width="100%">
+      <img src="assets/city2.gif" alt="City GIF" width="100%">
     </td>
     <td width="50%" align="center">
-      <img src="assets/pees.gif" alt="Pees GIF" width="100%">
+      <img src="assets/crim.gif" alt="Autumn GIF" width="100%">
     </td>
   </tr>
 </table>
 
 <!-- ==================== TECHNICAL ECOSYSTEM (SIZE 58) ==================== -->
-<h2 align="left">🛠️ Technical Ecosystem</h2>
+<h2 align="left">Tech Ecosystem</h2>
 
 <p align="center">
   <img src="https://api.iconify.design/simple-icons/python.svg?color=%23ffb7c5&height=58" alt="Python" title="Python" height="58"> &nbsp;&nbsp;
@@ -45,7 +45,7 @@
 </p>
 
 <!-- ==================== ACTIVITY STATS ==================== -->
-<h2 align="left">📊 Activity Stats</h2>
+<h2 align="left">Activity Stats</h2>
 
 <p align="center">
   <a href="https://github.com/anriam-codes">
@@ -54,7 +54,7 @@
 </p>
 
 <!-- ==================== CONNECT WITH ME ==================== -->
-<h2 align="left">🤝 Connect With Me</h2>
+<h2 align="left">Connect via</h2>
 
 <p align="center" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/krithiksria/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/ffb7c5/linkedin.png" alt="LinkedIn" height="55"></a> &nbsp;&nbsp;
